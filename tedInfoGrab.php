@@ -2,7 +2,7 @@
 define("START_ID", 1);
 define("STOP_TED_QUERY",20);
 /**
- * this script will run as a cron job and will go over all pages
+ * this script will run as a crone job and will go over all pages
  * on TED http://www.ted.com/talks/view/id/ 
  * from id 1 till there are no more pages
  * after this each page will be parsed and take the title and tags from the page
