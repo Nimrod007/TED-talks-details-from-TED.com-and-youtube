@@ -1,5 +1,8 @@
 TED-talks-details-from-TED.com-and-youtube
 ==========================================
+#### [you can use this public api](http://market.mashape.com/bestapi/ted/): <a href="https://www.mashape.com/bestapi/ted?&amp;utm_campaign=mashape5-embed&amp;utm_medium=button&amp;utm_source=ted&amp;utm_content=anchorlink&amp;utm_term=icon-light"><img src="https://d1g84eaw0qjo7s.cloudfront.net/images/badges/badge-icon-light-9e8eba63.png" width="143" height="38" alt="Mashape"></a>
+
+this is an example of you to get talks data
 
 this is a PHP script that should run from command line / as a crone job
 
